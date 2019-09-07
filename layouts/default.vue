@@ -5,12 +5,12 @@
 </template>
 
 <style>
-#wrapper{
-  @apply min-h-screen px-10;
+#wrapper {
+  @apply min-h-screen;
 }
 html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -19,7 +19,7 @@ html {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
   padding: 10px;
-  background-color:#edf2f7;
+  background-color: #edf2f7;
 }
 
 *,

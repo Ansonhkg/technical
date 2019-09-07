@@ -26,5 +26,4 @@ describe('Upload', () => {
     wrapper.vm.file = 'test.doc'
     expect(wrapper.emitted().selectedFile).toBeTruthy()
   })
-  
 })

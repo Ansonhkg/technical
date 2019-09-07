@@ -1,7 +1,10 @@
-# Technical
+# Technical Test
 
-> My ace Nuxt.js project
-
+## Summary
+> This application was built with the Vue.js framework, Nuxt.js
+> - Depedencies
+> - Utility-First CSS approach
+> 
 ## Build Setup
 
 ``` bash
@@ -19,4 +22,14 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Unit Testing by Jest
+
+``` bash
+
+```
+
+## E2E Testing by Cypress
+
+``` bash
+
+```
